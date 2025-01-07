@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Sarah-okolo/FEM-tip-calculator.git)
+- Solution URL: [github repository](https://github.com/Sarah-okolo/FEM-tip-calculator.git)
 - Live Site URL: [splitter-tip-calculator](https://splitter-tip-calulator.netlify.app/)
 
 ## My process
